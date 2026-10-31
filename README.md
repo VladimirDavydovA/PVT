@@ -10,3 +10,5 @@ git clone URL	Скачивает репозиторий
 git switch -c feature	Создаёт новую ветку и переключается на неё
 git remote add origin https://github.com/USERNAME/DroneStudio.git - Подключение к удаленному репозиторию
 git branch -M main - переименовывает текущую ветку в main
+
+Я подключился
