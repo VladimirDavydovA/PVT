@@ -12,3 +12,5 @@ git remote add origin https://github.com/USERNAME/DroneStudio.git - Подключение 
 git branch -M main - переименовывает текущую ветку в main
 
 Я подключился
+
+это моя ветка
